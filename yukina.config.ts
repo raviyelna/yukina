@@ -56,7 +56,6 @@ const YukinaConfig: Configuration = {
   banners: [
     "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
     "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
     "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
     "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
     "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
