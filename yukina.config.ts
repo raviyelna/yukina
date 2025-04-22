@@ -2,13 +2,13 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "Ravielna's Blog",
+  subTitle: "Our journey may have been meaningless. Our past may have been a mistake. But we're not going back.",
+  brandTitle: "Ravi",
 
-  description: "Demo Site",
+  description: "Ravi Blog Site",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://raviyelna.github.io",
 
   locale: "en", // set for website language and date format
 
@@ -27,25 +27,25 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/raviyelna",
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  username: "Raviyelna",
+  sign: "Simple guy who in fond of white/silver hair girl also DFIR and RE",
+  avatarUrl: "https://avatars.githubusercontent.com/u/148680564?v=4",
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/raviyelna",
     },
     {
-      icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      icon: "mingcute:facebook-line",
+      link: "https://www.facebook.com/Kann.Raviel",
     },
     {
-      icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      icon: "mingcute:social-x-line",
+      link: "https://x.com/Kawn28",
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
