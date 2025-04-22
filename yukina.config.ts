@@ -6,7 +6,7 @@ const YukinaConfig: Configuration = {
   subTitle: "Our journey may have been meaningless. Our past may have been a mistake. But we're not going back.",
   brandTitle: "Ravi",
 
-  description: "Ravi Blog Site",
+  description: "This is my profile page, where I share my works and notes. I hope you find something interesting here.",
 
   site: "https://raviyelna.github.io",
 
@@ -48,20 +48,35 @@ const YukinaConfig: Configuration = {
       link: "https://x.com/Kawn28",
     },
   ],
-  maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
+  maxSidebarCategoryChip: 3, // It is recommended to set it to a common multiple of 2 and 3
   maxSidebarTagChip: 12,
   maxFooterCategoryChip: 6,
   maxFooterTagChip: 24,
 
   banners: [
     "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/6bKcwHZigzlM4mJ.webp",
     "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
     "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
     "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
     "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
     "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
     "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta1.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta2.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta3.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta4.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta6.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta5.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/idk1.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/idk2.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/sakuya1.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/sakuya2.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys1.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys2.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys3.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys4.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys5.jpg",
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys6.jpg"
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
