@@ -1,6 +1,6 @@
 ---
 title: Portable Executable Structure
-published: 2025-20-04
+published: 2025-04-20
 description: A simple Portable Executable Structure blog post.
 tags: [PE, Blogging]
 category: Blog

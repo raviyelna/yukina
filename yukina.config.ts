@@ -2,7 +2,7 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Ravielna's Blog",
+  title: "Raviyelna's Blog",
   subTitle: "Our journey may have been meaningless. Our past may have been a mistake. But we're not going back.",
   brandTitle: "Ravi",
 
@@ -48,7 +48,7 @@ const YukinaConfig: Configuration = {
       link: "https://x.com/Kawn28",
     },
   ],
-  maxSidebarCategoryChip: 3, // It is recommended to set it to a common multiple of 2 and 3
+  maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
   maxSidebarTagChip: 12,
   maxFooterCategoryChip: 6,
   maxFooterTagChip: 24,
@@ -60,7 +60,6 @@ const YukinaConfig: Configuration = {
     "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
     "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
     "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
-    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta1.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta2.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta3.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta4.jpg",
