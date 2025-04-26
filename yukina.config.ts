@@ -54,12 +54,7 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
-    "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
-    "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
-    "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+    
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta2.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta3.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/carlotta4.jpg",
@@ -69,12 +64,20 @@ const YukinaConfig: Configuration = {
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/idk2.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/sakuya1.jpg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/sakuya2.png",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/smash_head.gif",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/working.gif",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/sleep.gif",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/OT.gif",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys1.png",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys2.jpeg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys3.jpeg",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys4.jfif",
     "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys5.jpg",
-    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys6.jpg"
+    "https://raw.githubusercontent.com/raviyelna/raviyelna.github.io/refs/heads/main/banner/irys6.jpg",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/gacha_animation_zani.gif",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/zani.png",
+    "https://raw.githubusercontent.com/raviyelna/Journey-into-the-Fundamental-of-Malware-Analysing/refs/heads/main/Asset/Zani_gif/zani_trans.gif"
+  
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
